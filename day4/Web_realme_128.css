@@ -1,0 +1,62 @@
+#layer2{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+#layer_2_button{
+ display: flex;
+ font-size: 20px;
+background-color: transparent;
+border: none;
+}
+
+#layer_3{
+    display: flex;
+    background-color: white;
+}
+
+
+#layer3_text{
+    padding: 40px;
+    font-size: 20px;
+    text-align: left;
+    border: none;
+    background-color: transparent;
+}
+
+#layer3_image{
+    padding: 15px;
+    height: 750px;
+}
+
+#layer3_Button{
+    background-color: transparent;
+    border:none;
+}
+
+#add_to_cart{
+    border-radius: 10px;
+    border: none; 
+    background-color: rgba(255, 166, 0, 0.576);
+    font-size: 40px;
+    position: absolute;
+    left: 80px;
+    top: 900px;
+}
+
+#buy_now{
+    border-radius: 10px;
+    border: none; 
+    background-color: rgba(255, 166, 0, 0.576);
+    font-size: 40px;
+    position: absolute;
+    left: 380px;
+    top: 900px;
+}
+
+span{
+    color: blue;
+}
